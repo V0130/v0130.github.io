@@ -435,6 +435,16 @@ main.content {
 }
 
 
+.profile-pic {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  border: 3px solid white;
+}
+
+
 /* add this to your style.css */
 .content section {
   /* push the anchor down by the height of your top padding */
